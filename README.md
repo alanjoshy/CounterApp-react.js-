@@ -1,4 +1,4 @@
-# Counter App
+# CounterApp
 
 A simple counter application built using React and Vite. This app demonstrates the use of React hooks like `useState` and `useEffect`, along with `axios` for API calls to fetch user data dynamically based on the counter value.
 
